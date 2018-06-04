@@ -27,6 +27,9 @@ Para alterar o dia da semana ou mes ou idioma, basta alterar os pontos marcados,
 ![ALTERAr](Alterar.PNG)
 
 
+Ao executar, no console, é apresentado o dia da semana e o mês por extenso de tres formas diferentes: por extenso, por extenso com a primeira letra em maiúsculo e por extenso abreviado.
+
+
 # Autor
 
 Ezequiel da Silva Daniel  
